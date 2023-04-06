@@ -1,7 +1,14 @@
 <h1 align="center">Welcome, my name is <a href="https://vk.com/foxtep" target="_blank">Artem</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3>
+   About me
+</h3>
+
 <!--
 **F0xNik/F0xNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
